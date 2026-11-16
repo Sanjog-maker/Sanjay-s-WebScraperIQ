@@ -1,0 +1,8 @@
+{
+  "name": "WebScrapeIQ",
+  "description": "Intelligent Web Scraping & Data Analytics system with multi-page extraction, Pandas & Regex cleaning, MySQL/SQLite storage, price drop alerts, and Python/Streamlit code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
